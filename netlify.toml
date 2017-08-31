@@ -1,0 +1,3 @@
+[build]
+Command = "jekyll build"
+Publish = "_site/"
